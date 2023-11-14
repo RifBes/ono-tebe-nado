@@ -13,14 +13,14 @@ body {
     background-color:#FFF;
 }
 
-.headre__links-list{
+.headre__links-list {
     display: flex;
     gap: 32px;
     text-underline-offset: 5px; /* позволяет изменить положение декоративной линии */
     list-style: circle;
 }
 
-.header__links-list-item_no-bullit{
+.header__links-list-item_no-bullit {
     text-decoration: none;
     list-style: none;
 }
@@ -45,7 +45,7 @@ body {
     text-underline-offset: 5px;
 }
 
-.address p{
+.address p {
     width: 240px;
 }
 
@@ -97,7 +97,7 @@ body {
     text-align: right;
 }
 
-.letter-spacing{
+.letter-spacing {
     letter-spacing: 60px;
 }
 
@@ -105,7 +105,7 @@ body {
     letter-spacing: 0px;;
 }
 
-.cover__description{
+.cover__description {
     display: flex;
     justify-content: end;
     align-items: center;
@@ -113,7 +113,7 @@ body {
     margin-top: 135px;
 }
 
-.cover__description-text{
+.cover__description-text {
     color: #FFF;
     font-weight: 400;
     font-size: 22px;
@@ -136,7 +136,7 @@ body {
     padding: 180px 50px 181px;
 }
 
-.lots__heading{
+.lots__heading {
     margin: 0 0 27px 40px;
     font-weight: 700;
     font-size: 40px;
@@ -182,7 +182,7 @@ body {
     background-size: cover;
 }
 
-.card_type_picture{
+.card_type_picture {
     background-image: url(../images/card-lot-03.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -197,14 +197,14 @@ body {
     text-transform: uppercase;
 }
 
-.card__text{
+.card__text {
     font-weight: 400;
     font-size: 20px;
     font-style: normal;
     line-height: 120%;
 }
 
-.lots__look-more-link{
+.lots__look-more-link {
     display: block;
     margin: 30px 0 0 40px;
     font-size: 20px;
